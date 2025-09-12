@@ -54,30 +54,30 @@ const techSkills = [
 ];
 
 const skills = [
-  { icon: <SiTensorflow className="text-orange-500 w-6 h-6" />, name: "TensorFlow" },
-  { icon: <SiRust className="text-orange-700 w-6 h-6" />, name: "Rust" },
-  { icon: <SiGo className="text-sky-500 w-6 h-6" />, name: "Go" },
-  { icon: <SiHaskell className="text-purple-600 w-6 h-6" />, name: "Haskell" },
-  { icon: <SiVuedotjs className="text-green-500 w-6 h-6" />, name: "Vue.js" },
-  { icon: <SiNodedotjs className="text-green-600 w-6 h-6" />, name: "Node.js" },
-  { icon: <SiDjango className="text-green-700 w-6 h-6" />, name: "Django" },
-  { icon: <SiGraphql className="text-pink-500 w-6 h-6" />, name: "GraphQL" },
-  // { icon: <SiBlitz className="text-yellow-500 w-6 h-6" />, name: "Blitz.js" },
-  { icon: <RiNextjsFill className="text-black w-6 h-6 dark:text-white" />, name: "Next.js" },
-  { icon: <SiSolidity className="text-gray-600 w-6 h-6 dark:text-gray-300" />, name: "Solidity" },
-  { icon: <SiIpfs className="text-teal-500 w-6 h-6" />, name: "IPFS" },
-  { icon: <SiSnowflake className="text-blue-500 w-6 h-6" />, name: "Snowflake" },
-  { icon: <SiDocker className="text-blue-600 w-6 h-6" />, name: "Docker" },
-  { icon: <SiKubernetes className="text-blue-500 w-6 h-6" />, name: "Kubernetes" },
-  { icon: <SiNginx className="text-green-600 w-6 h-6" />, name: "NGINX" },
-  { icon: <SiApacheairflow className="text-cyan-600 w-6 h-6" />, name: "Apache Airflow" },
-  { icon: <SiMysql className="text-orange-500 w-6 h-6" />, name: "MySQL" },
-  { icon: <SiMongodb className="text-green-400 w-6 h-6" />, name: "MongoDB" },
-  { icon: <SiPostgresql className="text-blue-600 w-6 h-6" />, name: "PostgreSQL" },
-  // { icon: <SiD3dotjs className="text-orange-600 w-6 h-6" />, name: "D3.js" },
-  { icon: <SiPrisma className="text-gray-700 w-6 h-6 dark:text-gray-300" />, name: "Prisma" },
-  { icon: <SiTailwindcss className="text-cyan-500 w-6 h-6" />, name: "Tailwind CSS" },
-  { icon: <FaGit className="text-red-500 w-6 h-6" />, name: "Git" },
+  { icon: <SiTensorflow className="text-orange-500 w-8 h-8" />, name: "TensorFlow" },
+  { icon: <SiRust className="text-orange-700 w-8 h-8" />, name: "Rust" },
+  { icon: <SiGo className="text-sky-500 w-8 h-8" />, name: "Go" },
+  { icon: <SiHaskell className="text-purple-600 w-8 h-8" />, name: "Haskell" },
+  { icon: <SiVuedotjs className="text-green-500 w-8 h-8" />, name: "Vue.js" },
+  { icon: <SiNodedotjs className="text-green-600 w-8 h-8" />, name: "Node.js" },
+  { icon: <SiDjango className="text-green-700 w-8 h-8" />, name: "Django" },
+  { icon: <SiGraphql className="text-pink-500 w-8 h-8" />, name: "GraphQL" },
+  // { icon: <SiBlitz className="text-yellow-500 w-8 h-8" />, name: "Blitz.js" },
+  { icon: <RiNextjsFill className="text-black w-8 h-8 dark:text-white" />, name: "Next.js" },
+  { icon: <SiSolidity className="text-gray-600 w-8 h-8 dark:text-gray-300" />, name: "Solidity" },
+  { icon: <SiIpfs className="text-teal-500 w-8 h-8" />, name: "IPFS" },
+  { icon: <SiSnowflake className="text-blue-500 w-8 h-8" />, name: "Snowflake" },
+  { icon: <SiDocker className="text-blue-600 w-8 h-8" />, name: "Docker" },
+  { icon: <SiKubernetes className="text-blue-500 w-8 h-8" />, name: "Kubernetes" },
+  { icon: <SiNginx className="text-green-600 w-8 h-8" />, name: "NGINX" },
+  { icon: <SiApacheairflow className="text-cyan-600 w-8 h-8" />, name: "Apache Airflow" },
+  { icon: <SiMysql className="text-orange-500 w-8 h-8" />, name: "MySQL" },
+  { icon: <SiMongodb className="text-green-400 w-8 h-8" />, name: "MongoDB" },
+  { icon: <SiPostgresql className="text-blue-600 w-8 h-8" />, name: "PostgreSQL" },
+  // { icon: <SiD3dotjs className="text-orange-600 w-8 h-8" />, name: "D3.js" },
+  { icon: <SiPrisma className="text-gray-700 w-8 h-8 dark:text-gray-300" />, name: "Prisma" },
+  { icon: <SiTailwindcss className="text-cyan-500 w-8 h-8" />, name: "Tailwind CSS" },
+  { icon: <FaGit className="text-red-500 w-8 h-8" />, name: "Git" },
   { icon: <FaGithub className="w-6 h-6 text-black dark:text-white" />, name: "GitHub" },
 ];
 
@@ -104,14 +104,14 @@ const Skills = () => {
 
         <div className="py-2 border border-gray-300 dark:border-gray-700 rounded-lg overflow-hidden">
           <motion.div
-            className="flex gap-x-12"
+            className="flex gap-x-8 py-2"
             animate={{ x: [0, -1000] }} // Adjust x values based on your content width
             transition={{ repeat: Infinity, duration: 20, ease: "linear" }}
           >
             {duplicatedSkills.map((skill, index) => (
-              <div key={index} className="flex flex-col gap-2 items-center">
+              <div key={index} className="flex flex-col gap-2 items-center justify-center">
                 <span>{skill.icon}</span>
-                <span className="dark:text-gray-400 text-xs font-semibold">
+                <span className={`dark:text-gray-400 text-xs font-semibold`}>
                   {skill.name}
                 </span>
               </div>
