@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-import thirdweb from "../assets/companies/thirdweb.png"
+import thirdweb from "../assets/companies/Thirdweb.png"
 import gnosis from "../assets/companies/Gnosis.png"
 import actinidi from "../assets/companies/Actindi Inc.png"
 
