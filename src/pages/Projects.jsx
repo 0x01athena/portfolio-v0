@@ -1,6 +1,5 @@
 import { projects } from "../constants/projects";
-import github_bikash from "../assets/github_bikash.mov";
-import { FaGithub, FaLink, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLink } from "react-icons/fa";
 import { motion } from "framer-motion";
 import { useEffect, useRef } from "react";
 
@@ -57,14 +56,6 @@ const Projects = () => {
                   }
                   className="relative pb-2 rounded-lg border dark:border-gray-800 shadow-md max-w-sm cursor-pointer mx-auto"
                 >
-                  <video
-                    ref={videoRef}
-                    src={github_bikash}
-                    autoPlay
-                    loop
-                    muted
-                    className="aspect-[16/9] w-full object-cover rounded-t-lg"
-                  />
                   <div className="px-5 text-sm flex flex-col gap-2 mt-5">
                     <h3 className="font-semibold text-sm dark:text-gray-200">
                       More Projects

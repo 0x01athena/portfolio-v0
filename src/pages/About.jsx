@@ -1,4 +1,3 @@
-import portfolio from "../assets/portfolio_bg.png";
 import { motion } from "framer-motion";
 import useAnimation from "../hooks/useAnimation";
 
