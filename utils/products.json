@@ -1,0 +1,258 @@
+[
+    {
+        "product": "E5",
+        "tagline": "The E5 is a smartphone built for speed and efficiency, delivering a fluid and powerful experience without the premium price tag. Its refined design and intelligent technology ensure effortless navigation, fast multitasking, and immersive visuals for work or play.",
+        "website": "www.fulgomobile.com",
+        "sign": "E5",
+        "type": "Smart Phone",
+        "features": {
+            "CPU": "Arm Cortex A73 2.1GHz + Arm Cortex A53 2.0GHz",
+            "DISPLAY": "6.53'' 1080×2242 FHD",
+            "CHIPSET": "Arm Mali-G72 900MHz",
+            "OS": "Android 14",
+            "NETWORK": [
+                {
+                    "type": "GSM",
+                    "bands": "2/3/5/8"
+                },
+                {
+                    "type": "WCDMA",
+                    "bands": "1/8"
+                },
+                {
+                    "type": "TDD",
+                    "bands": "B40"
+                },
+                {
+                    "type": "FDD",
+                    "bands": "1/3/7/8/20"
+                },
+                {
+                    "type": "WCDMA Alt",
+                    "bands": "B1/8 or B2/5"
+                }
+            ],
+            "MEMORY": "6GB+128GB & 8GB+256GB",
+            "CAMERA": {
+                "Front": "25MP FF",
+                "Rear": "64MP + 8MP + 2MP"
+            },
+            "BATTERY": "5000mAh",
+            "Earphone Pocket": "3.5mm",
+            "SIM CARD": "Dual Nano SIM",
+            "CHARGING PORT": "5V/2A Type C",
+            "SENSORS": [
+                "WIFI",
+                "BT4.2",
+                "FM",
+                "GPS",
+                "Glonass",
+                "Side Fingerprint"
+            ],
+            "ACCESSORIES": [
+                "Charger",
+                "USB cable",
+                "Warranty Card",
+                "User Manual"
+            ]
+        }
+    },
+    {
+        "product": "A7",
+        "tagline": "Power and precision come together in the A7, a smartphone engineered for those who push the limits. From its ultra-responsive display to next-generation connectivity, every detail is designed to enhance your experience.",
+        "website": "www.fulgomobile.com",
+        "sign": "A7",
+        "type": "Smart Phone",
+        "features": {
+            "CPU": "MT6896 (Dimensity 8200) 4x Cortex-A78 2.75GHz + 4x Cortex A55 2.0GHz",
+            "DISPLAY": "6.95'' Incell FHD+ 1080×2460, 144Hz",
+            "BLUETOOTH": "BT 5.2",
+            "OS": "Android 15",
+            "NETWORK": [
+                {
+                    "type": "5G",
+                    "bands": "N1/2/3/5/7/8/20/25/28AB/38/41/66/77/78"
+                },
+                {
+                    "type": "4G LTE",
+                    "bands": "FDD:B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28A/28B/66/71"
+                },
+                {
+                    "type": "3G",
+                    "bands": "WCDMA: B1/2/4/5/6/8/19"
+                }
+            ],
+            "MEMORY": "12GB RAM + 256GB Storage",
+            "CAMERA": {
+                "Front": "32MP",
+                "Rear": "100MP + 8MP + 2MP"
+            },
+            "BATTERY": "5000mAh, Type-C 3.0, Quick Charge PPS 33W",
+            "NAVIGATION": "GPS + Glonass + Beidou + Galileo",
+            "SIM CARD": "Dual Nano SIM",
+            "CHARGING PORT": "5V/2A Type C Charging",
+            "SENSORS": [
+                "G-sensor",
+                "P-sensor",
+                "L-sensor",
+                "Gyroscope",
+                "Compass",
+                "NFC"
+            ],
+            "ACCESSORIES": [
+                "Charger",
+                "USB cable",
+                "Warranty Card",
+                "User Manual"
+            ]
+        }
+    },
+    {
+        "product": "AeroBook 15",
+        "tagline": "Sleek, powerful, and designed for modern professionals, the AEROBOOK 15 redefines what a laptop should be. With a high-resolution display, fast storage, and seamless multitasking capabilities, it’s built to handle everything from creative projects to everyday tasks with ease.",
+        "website": "www.fulgomobile.com",
+        "sign": "AeroBook",
+        "type": "Laptop",
+        "features": {
+            "OS": "Windows 11 Pro",
+            "DISPLAY": "15.6\" IPS, 1920 x 1080 resolution",
+            "PROCESSOR": "Intel Celeron N5095A",
+            "RAM": "8GB / 16GB DDR4",
+            "PORTS": "1x USB 3.0, 1x USB 2.0, 1x HDMI, 1x 3.5mm jack, 1x TF card slot, 1x Kensington Lock",
+            "CONNECTIVITY": "Bluetooth 4.2, 2.4G + 5.0G dual-band WiFi",
+            "STORAGE": "256GB / 512GB SSD",
+            "CAMERA": "0.3MP (with Privacy Shutter)",
+            "BATTERY": "7.7V 5000mAh (2-cell)",
+            "SECURITY": "Fingerprint identification",
+            "KEYBOARD": "Backlit keyboard",
+            "TOUCHPAD": "Innovative TouchPad with volume and brightness adjustment",
+            "BUILD": "Sleek and lightweight design",
+            "ACCESSORIES": "Charger and User Manual"
+        }
+    },
+    {
+        "product": "ProBook 15",
+        "tagline": "For those who need versatility and reliability, the PROBOOK 15 delivers. Whether you're a student, professional, or creator, its robust performance and intelligent design offer everything you need to stay ahead.",
+        "website": "www.fulgomobile.com",
+        "sign": "ProBook",
+        "type": "Laptop",
+        "features": {
+            "OS": "Windows 11 Pro",
+            "DISPLAY": "15.6\" IPS, 1920 x 1080 resolution",
+            "PROCESSOR": "Intel Celeron N95",
+            "RAM": "16GB DDR4",
+            "PORTS": "2x USB 3.0, 1x USB 2.0, 1x HDMI, 1x RJ45, 1x Type-C (for data), 1x 3.5mm jack, 1x TF card slot, 1x Kensington Lock",
+            "CONNECTIVITY": "Bluetooth 4.2, 2.4G + 5.0G dual-band WiFi",
+            "STORAGE": "512GB SSD",
+            "CAMERA": "2.0MP (with Privacy Shutter)",
+            "BATTERY": "7.7V 5000mAh (2-cell)",
+            "SECURITY": "Fingerprint identification",
+            "KEYBOARD": "Backlit keyboard",
+            "TOUCHPAD": "Innovative TouchPad with volume and brightness adjustment",
+            "BUILD": "Premium finish with a durable structure",
+            "ACCESSORIES": "Charger and User Manual"
+        }
+    },
+    {
+        "product": "UltraBook X",
+        "tagline": "The ULTRABOOK is a powerhouse of performance, combining cutting-edge technology with sleek, professional crasmanship. Designed for high-intensity tasks, gaming, and content creation, it offers superior speed, expandable memory, and high-speed connectivity for uninterrupted productivity.",
+        "website": "www.fulgomobile.com",
+        "sign": "UltraBook",
+        "type": "Laptop",
+        "features": {
+            "OS": "Windows 11 Pro",
+            "DISPLAY": "15.6\" IPS, 1920 x 1080 resolution",
+            "PROCESSOR": "Intel Core i7-10750H & Intel Core i9-9880H",
+            "RAM": "16GB / 32GB DDR4 (2 slots, upgradeable)",
+            "PORTS": "3x USB 3.0, 1x RJ45, 1x HDMI, 1x Type-C (Charging & Data), 1x micro-SD card slot (up to 128GB), 1x 3.5mm jack",
+            "CONNECTIVITY": "Bluetooth 4.2, WiFi 6 (2.4G + 5G)",
+            "STORAGE": "512GB / 1TB SSD (NVMe supported, 2 slots, upgradeable)",
+            "CAMERA": "2.0MP (with Privacy Shutter)",
+            "BATTERY": "11.1V 5000mAh (2-cell)",
+            "SECURITY": "Fingerprint identification",
+            "KEYBOARD": "Backlit keyboard",
+            "TOUCHPAD": "Innovative TouchPad with volume and brightness adjustment",
+            "BUILD": "A: Metal case. B, C & D: High-quality plastic",
+            "ACCESSORIES": "Charger and User Manual"
+        }
+    },
+    {
+        "product": "PowerPlus A3",
+        "tagline": "Never run out of power again with the POWERPLUS A3, a high-capacity powerbank designed for reliability. Whether you're traveling, working remotely, or simply need backup power, the A3 ensures your devices stay charged no matter where life takes you.",
+        "sign": "A3",
+        "type": "Others",
+        "features": {
+            "BATTERY": "A-grade Polymer Cell",
+            "CAPACITY": "20000mAh",
+            "SIZE": "143.0*70*28mm",
+            "COLOUR": "Black",
+            "SHELL MATERIAL": "ABS+PC",
+            "LCD Indicators": "YES",
+            "INPUT": [
+                "Micro 5V/2A",
+                "Type C 5V/2A 9V/2A"
+            ],
+            "OUTPUT": [
+                "USB*2 5V/3A 9V/2.22A 12V/1.5A",
+                "Type C 5V/3A 9V/2.22A 12V/1.7A"
+            ],
+            "QUICK CHARGE AGREEMENTS": "22.5W",
+            "QC VERSIONS": [
+                "USB-C: 5V/3A, 9V/2.22A, 12V/1.5A",
+                "USB-A1/USB-A2: 5V/4.5A, 9V/2A, 12V/1.5A"
+            ]
+        }
+    },
+    {
+        "product": "G3",
+        "tagline": "Experience next-level wireless audio with the G3, designed for those who refuse to compromise on sound quality or comfort. With its high-performance charging case, extended connectivity, and waterresistant build, the G3 is built to keep up with your lifestyle.",
+        "sign": "G3",
+        "type": "Others",
+        "features": {
+            "CHIPSET": "JL6973",
+            "CAPACITY": "40mAh",
+            "BLUETOOTH": "V5.4",
+            "HORN SPECIFICATIONS": "20-22KHz & 32",
+            "MUSIC/CALL TIME": "5 hours/4.5 hours",
+            "STANDBY TIME": "540 hours",
+            "CHARGING CASE": "2000mAh with protection board",
+            "BT PROFILE SUPPORT": "SBC, AAC, MSBC, HFP, HSP, A2DP, AVRCP",
+            "MATERIAL": "Transparent cover/matt ABS",
+            "LED DISPLAY": "YES",
+            "TOUCH CONTROL": "YES",
+            "SIRI SUMMONING": "YES"
+        }
+    },
+    {
+        "product": "G2",
+        "tagline": "The innovative & high performing design of the G2 allows you to experience phenomenal, next level audio soware without the high market price of comparable industry products. The G2 can repel sweat, rain & unprecedented wet situations with it’s incredible IPX5 waterproof technology. ",
+        "sign": "G2",
+        "type": "Others",
+        "features": {
+            "CHIPSET": "3015/JL",
+            "CAPACITY": "400mAh",
+            "BLUETOOTH": "V5.1",
+            "AUDIO QUALITY": "20-22KHz & 32",
+            "FLASH": "Rear flash",
+            "WORKING RANGE": "10m+",
+            "CHARGING CASE": "800mAh/4.5hr of playtime"
+        }
+    },
+    {
+        "product": "J5",
+        "sign": "J5",
+        "tagline": "Feel the beat with the J5, a Bluetooth speaker designed to bring your music to life, no matter where you are. Engineered for both power and portability, the J5 delivers deep bass, crisp highs, and a dynamic soundstage for an unforgettable audio experience.",
+        "type": "Others",
+        "features": {
+            "SPEAKER": "52MM × 2 + diaphragm × 2",
+            "CAPACITY": "Dual 2000mAh with protection board",
+            "BLUETOOTH": "V5.3",
+            "PLAYBACK TIME": "6 Hours",
+            "WEIGHT": "0.64kg",
+            "WORKING RANGE": "10m+",
+            "DIMENSIONS": "80 × 80 × 190mm",
+            "MATERIAL": "ABS+Mesh+Silicone",
+            "WATERPROOF LEVEL": "IPX6"
+        }
+    }
+]
