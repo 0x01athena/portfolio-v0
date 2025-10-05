@@ -5,6 +5,7 @@ import Navigation from "./pages/Navigation";
 import Projects from "./pages/Projects";
 import Skills from "./pages/Skills";
 import Footer from "./pages/Footer";
+import Blog from "./pages/Blog";
 import "./App.css";
 import ParticlesBg from "./components/ParticlesBg";
 import DarkMode from "./components/DarkMode";
@@ -40,6 +41,7 @@ function App() {
         <Experience />
         <Skills />
         <Projects />
+        <Blog />
         <Contact />
         <Footer />
         <DarkMode isDark={isDark} toggleDarkMode={toggleDarkMode} />

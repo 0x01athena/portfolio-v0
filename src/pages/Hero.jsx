@@ -112,15 +112,6 @@ const Hero = () => {
             </motion.a>
             <motion.a
               variants={iconVariants}
-              href="https://discord.com/users/1386066773274656909"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-white hover:text-gray-300 rounded-full bg-white  hover:bg-teal-500 p-1"
-            >
-              <FaDiscord fill="opacity-20" className="text-xl md:text-2xl lg:text-3xl" />
-            </motion.a>
-            <motion.a
-              variants={iconVariants}
               href="https://github.com/0xpleiades"
               target="_blank"
               rel="noopener noreferrer"

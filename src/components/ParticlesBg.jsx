@@ -26,28 +26,28 @@ export default function ParticlesBg() {
           }}
           options={{
             fpsLimit: 120,
-            interactivity: {
-              events: {
-                onClick: {
-                  enable: true,
-                  mode: "push",
-                },
-                onHover: {
-                  enable: true,
-                  mode: "repulse",
-                },
-                resize: true,
-              },
-              modes: {
-                push: {
-                  quantity: 4,
-                },
-                repulse: {
-                  distance: 100,
-                  duration: 0.4,
-                },
-              },
-            },
+            // interactivity: {
+            //   events: {
+            //     onClick: {
+            //       enable: true,
+            //       mode: "push",
+            //     },
+            //     onHover: {
+            //       enable: true,
+            //       mode: "repulse",
+            //     },
+            //     resize: true,
+            //   },
+            //   modes: {
+            //     push: {
+            //       quantity: 4,
+            //     },
+            //     repulse: {
+            //       distance: 100,
+            //       duration: 0.4,
+            //     },
+            //   },
+            // },
             particles: {
               color: {
                 value: "#7cc1e6",

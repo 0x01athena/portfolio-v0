@@ -1,15 +1,10 @@
-import { FaDiscord, FaEnvelope, FaGithub, FaLinkedin, FaPhoneAlt, FaTelegram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaPhoneAlt, FaTelegram } from "react-icons/fa";
 
 const contact = [
   {
     icon: <FaTelegram className="text-2xl" />,
     link: "https://t.me/pleiades0x01",
     name: "Telegram",
-  },
-  {
-    icon: <FaDiscord className="text-2xl" />,
-    link: "https://discord.com/users/1386066773274656909",
-    name: "Discord"
   },
   {
     icon: <FaGithub className="text-2xl" />,
@@ -29,7 +24,7 @@ const Contact = () => {
           <p className="dark:text-gray-400 mb-10">
             Lets get in touch! Feel free to reach out via email or phone.
           </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-5 gap-y-6 pb-8 px-5 rounded-lg self-center dark:text-white">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-5 gap-y-6 pb-8 px-5 rounded-lg self-center dark:text-white">
             {contact.map(({ icon, link, name }, index) => (
               <a
                 key={index}

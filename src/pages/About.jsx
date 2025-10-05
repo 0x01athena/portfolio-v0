@@ -50,7 +50,7 @@ const About = () => {
           ref={ref}
           initial="hidden"
           animate={hasAnimated ? "visible" : "hidden"}
-          className="mt-2 text-justify text-white/80"
+          className="mt-2 text-justify text-gray-800 dark:text-white/80"
         >
           {[
             "I’m a full-stack & blockchain developer with many years of experience building scalable, end-to-end applications using technologies like Solidity, Rust, Move, Haskell, Foundry.",
@@ -65,7 +65,7 @@ const About = () => {
               key={index}
               custom={index}
               variants={textAnimation}
-              className="mb-2 text-[16px]"
+              className="mb-2 text-[16px] text-gray-800 dark:text-white"
             >
               {paragraph}
             </motion.p>
@@ -80,12 +80,12 @@ const About = () => {
             <h3 className="font-semibold dark:text-teal-500 text-teal-600">
               Qualification
             </h3>
-            <p className="my-0.5">Bachelor of Informatics, Kensai University, 2015 – 2018</p>
-            <p>Osaka Prefectural Seijo Technical High School, 2012 – 2015</p>
+            <p className="my-0.5 text-gray-800 dark:text-white">Bachelor of Informatics, Kensai University, 2015 – 2018</p>
+            <p className="text-gray-800 dark:text-white">Osaka Prefectural Seijo Technical High School, 2012 – 2015</p>
             <h3 className="font-semibold dark:text-teal-500 text-teal-600 mt-2">
               Location
             </h3>
-            <p>Osaka, Japan</p>
+            <p className="text-gray-800 dark:text-white">Osaka, Japan</p>
           </motion.div>
         </motion.div>
       </div>
