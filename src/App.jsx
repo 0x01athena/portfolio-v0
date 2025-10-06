@@ -6,6 +6,7 @@ import Projects from "./pages/Projects";
 import Skills from "./pages/Skills";
 import Footer from "./pages/Footer";
 import Blog from "./pages/Blog";
+import Testimonials from "./pages/Testimonials";
 import "./App.css";
 import ParticlesBg from "./components/ParticlesBg";
 import DarkMode from "./components/DarkMode";
@@ -42,6 +43,7 @@ function App() {
         <Skills />
         <Projects />
         <Blog />
+        {/* <Testimonials /> */}
         <Contact />
         <Footer />
         <DarkMode isDark={isDark} toggleDarkMode={toggleDarkMode} />

@@ -6,6 +6,7 @@ import {
   FaProjectDiagram,
   FaTasks,
   FaBlog,
+  FaComments,
 } from "react-icons/fa";
 import { GiGiftOfKnowledge } from "react-icons/gi";
 import { motion } from "framer-motion";
@@ -17,6 +18,7 @@ const navItems = [
   { icon: <GiGiftOfKnowledge />, name: "Skills", to: "#skills" },
   { icon: <FaProjectDiagram />, name: "Projects", to: "#projects" },
   { icon: <FaBlog />, name: "Blog", to: "#blog" },
+  { icon: <FaComments />, name: "Testimonials", to: "#testimonials" },
   { icon: <FaEnvelope />, name: "Contact", to: "#contact" },
 ];
 

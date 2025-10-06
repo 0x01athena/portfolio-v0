@@ -54,7 +54,7 @@ const BlogModal = ({ isOpen, onClose, post, onPrevious, onNext, hasPrevious, has
 
                     {/* Modal Content */}
                     <motion.div
-                        className="relative bg-white dark:bg-gray-800 rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden"
+                        className="relative bg-white dark:bg-gray-900 rounded-xl shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden"
                         variants={modalVariants}
                         initial="hidden"
                         animate="visible"
