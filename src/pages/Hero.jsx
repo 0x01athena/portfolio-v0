@@ -70,7 +70,7 @@ const Hero = () => {
           className="flex flex-col items-center gap-2"
         >
           <a
-            href="https://drive.google.com/file/d/1h_7cV9eWNwDYRMHAtSz75GUOGPDbk2eT/view?usp=sharing"
+            href="https://drive.google.com/file/d/18NuBnRAYXfz09OukwYPiF3HsLS8z4Zzn/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
