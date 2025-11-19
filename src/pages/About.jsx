@@ -53,7 +53,7 @@ const About = () => {
           className="mt-2 text-justify text-gray-800 dark:text-white/80"
         >
           {[
-            "I’m a full-stack & blockchain developer with many years of experience building scalable, end-to-end applications using technologies like Solidity, Rust, Move, Haskell, Foundry.",
+            "I’m blockchain & ai developer with many years of experience building scalable, end-to-end applications using technologies like Solidity, Rust, Move, Haskell, Foundry.",
             "I specialize in developing Smart Contracts, staking systems, trading bots, web wallets, NFT games, marketplaces and robust APIs. Leveraging deep expertise in Ethereum, Solana, Sui, Cardano, and Midnight, I develop innovative dApps that drive the evolution of the Web3 ecosystem.",
             "Also I am a highly motivated and results-driven Full Stack Developer with a solid foundation in both front-end and back-end technologies, including React.js, Node.js, Express.js, and MongoDB.",
             "My expertise lies in building scalable, high-performance web applications that prioritize intuitive user experiences and robust, efficient backend systems.",
