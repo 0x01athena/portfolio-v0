@@ -103,7 +103,7 @@ const Hero = () => {
           >
             <motion.a
               variants={iconVariants}
-              href="https://t.me/pleiades0x01"
+              href="https://t.me/texora0012"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300"

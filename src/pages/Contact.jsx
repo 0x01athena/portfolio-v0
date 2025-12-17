@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin, FaPhoneAlt, FaTelegram } from "react-icons/fa";
 const contact = [
   {
     icon: <FaTelegram className="text-2xl" />,
-    link: "https://t.me/pleiades0x01",
+    link: "https://t.me/texora0012",
     name: "Telegram",
   },
   {
